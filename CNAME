@@ -1,1 +1,4 @@
-haarta.io
+Type: CNAME
+Name: www
+Value: theeacx.github.io
+TTL: Automatic or 3600 (1 hour)
